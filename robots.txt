@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wuzajitomosa.pages.dev/sitemap.xml
